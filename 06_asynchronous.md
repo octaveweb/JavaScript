@@ -38,10 +38,10 @@ console.log("Third task"); // This line runs immediately, before the timer finis
 2. `Third task`
 3. `Second task (after 2 seconds)`
 
-#### Here's a quick summary:
+## Here's a quick summary:
 
-- ## `Asynchronous` JavaScript allows a long-running task to start, and then lets the rest of the program continue to run without waiting for that task to finish. It's about non-blocking execution.
+- `Asynchronous` JavaScript allows a long-running task to start, and then lets the rest of the program continue to run without waiting for that task to finish. It's about non-blocking execution.
 
-- ## `Synchronous` JavaScript, on the other hand, executes code line by line, and if a task takes a long time, the entire program will freeze and wait for it to complete.
+- `Synchronous` JavaScript, on the other hand, executes code line by line, and if a task takes a long time, the entire program will freeze and wait for it to complete.
 
 > So, while asynchronous operations are often used for tasks that are expected to take time (like network requests or timers), the defining characteristic is the ability to perform other operations while waiting, not the wait time itself.
