@@ -2,11 +2,11 @@
 
 | Topic     | Topic links                      |
 | --------- | -------------------------------- |
-| Variable  | [Basic Variables](variables.md)    |
-| Data Type | [Basic of Data Tyle](datatype.md) |
-| Memory     | [Stack & Heap](Memory.md)        |
-| Data Conversion    | [Basic data conversion](conversion.md)        |
-| Operation   | [Basic Operation](oprasions.md)        |
+| Variable  | [Basic Variables](01_variables.md)    |
+| Data Type | [Basic of Data Tyle](02_datatype.md) |
+| Memory     | [Stack & Heap](03_Memory.md)        |
+| Data Conversion    | [Basic data conversion](04_conversion.md)        |
+| Operation   | [Basic Operation](05_oprasions.md)        |
 
 ---
 
