@@ -98,6 +98,7 @@ console.log(a)
 ### but there is a `issue` we can't send export like this. 
 
 ### Main file
+
 ```javascript
 a = 123
 b = 321
@@ -108,20 +109,26 @@ b = 321
 module.exports = {a,b} // send an object  
 ```
 > Key points to remember
+
 -  Only one export form one file
 
 - ### Another file
+
 - ```javascript
+
   const data = require("./script")
   console.log(data)
   ```
   - #### Output
+
   - ```javascript
     { a: 123, b: 321 }
     ```
 
 > Proparty add in `module.exports.proporty_name = proparty`
+
 ### Main file
+
 ```javascript
 // module.exports = a; ❌ Error
 // module.exports = b; ❌ Error
@@ -133,13 +140,16 @@ module.exports.a = a
 module.exports.b = b 
 module.exports.c = c 
 ```
+
 - ### Another file
+
 - ```javascript
   const data = require("./script")
   console.log(data)
   ```
 
 - ### Output
+
 - ```javascript
   { a: 123, b: 321, c: 213 }
   ```
