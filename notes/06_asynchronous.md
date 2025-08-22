@@ -10,7 +10,7 @@
 
 ### For Example:
 
-```
+```javascript
 console.log("First task");
 // This could be a very slow function that blocks everything.
 slowFunction();
@@ -22,7 +22,7 @@ console.log("Third task"); // This line has to wait for slowFunction() to finish
 
 A common example is using `setTimeout`, which waits for a specified time before executing a function.
 
-```
+```javascript
 console.log("First task");
 
 setTimeout(() => {
