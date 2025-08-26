@@ -9,13 +9,9 @@
 | Operation   | [Basic Operation](notes/05_oprasions.md)        |
 | Asynchronous   | [Asynchronous JavaScript](notes/06_asynchronous.md)        |
 | Import and Export   | [Import and Export Basic ](notes/07_import_export.md)        |
+| Internet   | [Import and Export Basic ](notes/08_thory_internet)        |
 
-# create file structure to orginise it proparly
-# create file structure to orginise it proparly
-# create file structure to orginise it proparly
-# create file structure to orginise it proparly
-# create file structure to orginise it proparly
-# create file structure to orginise it proparly
+# create file structure to orginise it proparly `Qurck` 
 ---
 
 

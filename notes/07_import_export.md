@@ -71,11 +71,13 @@ console.log(add(2, 3)); // Output: 5
   Environment          Node.js (default)   Browser + Node.js
 
   Exports              Single object       Named & default exports
-  -----------------------------------------------------------------------
-# Sheryians.com/classroom
-## Let's say we have 2 file `script.js` and `script2.js`
 
-## Script.js in `cjs` import and export
+
+# Sheryians.com/classroom
+
+### Let's say we have 2 file `script.js` and `script2.js`
+
+### Script.js in `cjs` import and export
 
 ### Example:
 
