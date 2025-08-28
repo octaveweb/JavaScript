@@ -32,7 +32,9 @@ a {
 a:hover {
     color: #1f6feb;
 }
-
+img {
+ width: 100%;
+}
 /* 🔲 Code Blocks */
 /* 🌙 Dark Mode Background */
 pre {
