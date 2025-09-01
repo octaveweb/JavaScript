@@ -11,7 +11,7 @@
 | Import and Export   | [Import and Export Basic ](notes/07_import_export.md)        |
 | Internet   | [Import and Export Basic ](notes/08_thory_internet)        |
 
-# create file structure to orginise it proparly `Qurck` 
+
 ---
 
 
